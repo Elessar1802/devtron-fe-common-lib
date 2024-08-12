@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import { Redirect, Route, Switch, useLocation, useParams, useRouteMatch } from 'react-router'
+import { Redirect, Route, Switch, useLocation, useParams, useRouteMatch } from 'react-router-dom'
 import React, { useEffect, useMemo, useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import moment from 'moment'

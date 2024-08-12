@@ -16,7 +16,7 @@
 
 import { useEffect, useState } from 'react'
 import ReactSelect from 'react-select'
-import { useHistory, useRouteMatch, useParams } from 'react-router'
+import { useHistory, useRouteMatch, useParams } from 'react-router-dom'
 import { NavLink } from 'react-router-dom'
 import moment from 'moment'
 import Tippy from '@tippyjs/react'
